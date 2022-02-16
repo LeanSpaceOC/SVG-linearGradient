@@ -10,9 +10,13 @@ body {
   stroke:url(#svg-gradient) red;
 }
 
-main {
+main, footer {
   width: 70vw;
   max-width: 800px;
   min-width: 280px;
-  margin: 0 auto;
+  margin: 50px auto;
+}
+
+img {
+  margin-left: 10px;
 }

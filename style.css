@@ -1,5 +1,18 @@
+body {
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
 .feather-heart:hover {
   fill:url(#svg-gradient) red;
   stroke:url(#svg-gradient) red;
-  
+}
+
+main {
+  width: 70vw;
+  max-width: 800px;
+  min-width: 280px;
+  margin: 0 auto;
 }

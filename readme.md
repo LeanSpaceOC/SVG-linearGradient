@@ -14,3 +14,7 @@ Html5, `<SVG>` and `<linearGradient>` elements.
 
 ## How to
 
+Download the project files and click on the `index.html` file or inspect the code from the project web page:  
+https://leanspaceoc.github.io/SVG-linearGradient/  
+
+

@@ -1,0 +1,5 @@
+.feather-heart:hover {
+  fill:url(#svg-gradient) red;
+  stroke:url(#svg-gradient) red;
+  
+}
